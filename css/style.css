@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../src/images/backgroundLp.png);
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+body .formBody {
+  background: rgba(19, 18, 18, 0.9450980392);
+  max-width: 450px;
+  height: auto;
+  color: white;
+}
+body .formBody .logo-img {
+  width: 180px;
+}
+body .formBody .paragraph {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+body .formBody .btnSend {
+  color: #ff0043;
+  border-color: #ff0043;
+}
+body .formBody .btnSend:hover {
+  background: #ff0043;
+  color: white;
+}
+body .footer {
+  color: white;
+}
+body .footer a {
+  text-decoration: none;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

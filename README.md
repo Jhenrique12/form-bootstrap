@@ -13,7 +13,10 @@ Inputs:
 Botões:
 - Botão primary (com modificação nas cores do texto, da borda e de fundo);
 
+### Link de apoio para o uso do bootstrap: 
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+
 ## Observação
-Projeto feito a partir do curso da OneBitCode que leva o tema do formulário e das imagens utilizadas
+Projeto feito a partir do curso da OneBitCode que leva o tema do formulário e das imagens utilizadas.
 
 

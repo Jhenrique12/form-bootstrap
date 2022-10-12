@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../src/images/backgroundLp.png);
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+  width: 100%;
+
+  .formBody {
+    background: $container-color;
+    max-width: 450px;
+    height: auto;
+    color: white;
+
+    .logo-img {
+      width: 180px;
+    }
+    .paragraph {
+      margin-top: 8px;
+      margin-bottom: 8px;
+    }
+    .btnSend {
+      color: $btn-color;
+      border-color: $btn-color;
+
+      &:hover {
+        background: $btn-color;
+        color: white;
+      }
+    }
+  }
+  .footer {
+    color: white;
+    a {
+      text-decoration: none;
+      color: white;
+    }
+  }
+}
